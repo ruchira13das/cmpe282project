@@ -1,0 +1,14 @@
+com/sjsu/cmpe282/controller/UserController.class
+com/sjsu/cmpe282/util/DatabaseUtil.class
+com/sjsu/cmpe282/entity/UserPreferences.class
+com/sjsu/cmpe282/controller/BaseRestController.class
+com/sjsu/cmpe282/dao/impl/UserDAOImpl.class
+com/sjsu/cmpe282/dao/UserDAO.class
+com/sjsu/cmpe282/service/impl/UserServiceImpl.class
+com/sjsu/cmpe282/Application.class
+com/sjsu/cmpe282/controller/exception/RecordNotFoundException.class
+com/sjsu/cmpe282/service/UserService.class
+com/sjsu/cmpe282/controller/exception/GlobalControllerExceptionHandler.class
+com/sjsu/cmpe282/entity/UserContext.class
+com/sjsu/cmpe282/controller/exception/ServiceException.class
+com/sjsu/cmpe282/entity/User.class

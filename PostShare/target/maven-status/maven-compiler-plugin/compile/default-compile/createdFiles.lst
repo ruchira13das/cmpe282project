@@ -1,0 +1,16 @@
+com/sjsu/cmpe282/postshare/model/User.class
+com/sjsu/cmpe282/postshare/client/ServiceClientUtil.class
+com/sjsu/cmpe282/postshare/client/PostServiceClient$2.class
+com/sjsu/cmpe282/postshare/model/UserContext.class
+com/sjsu/cmpe282/postshare/model/PostRatings.class
+com/sjsu/cmpe282/postshare/model/UserPreferences.class
+com/sjsu/cmpe282/postshare/model/PostCategory.class
+com/sjsu/cmpe282/postshare/client/PostServiceClient$1.class
+com/sjsu/cmpe282/postshare/model/UserRegistrationForm.class
+com/sjsu/cmpe282/postshare/controller/PostShareController.class
+com/sjsu/cmpe282/postshare/client/UserServiceClient.class
+com/sjsu/cmpe282/postshare/model/PostContext.class
+com/sjsu/cmpe282/postshare/client/PostServiceClient.class
+com/sjsu/cmpe282/postshare/model/Post.class
+com/sjsu/cmpe282/postshare/client/PostServiceClient$3.class
+com/sjsu/cmpe282/postshare/model/UserPost.class
